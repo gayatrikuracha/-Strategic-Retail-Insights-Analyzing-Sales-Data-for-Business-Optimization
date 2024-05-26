@@ -57,5 +57,6 @@ We identified the subcategory that experienced the highest profit growth from 20
 
 # References
 - Dataset : [Link](https://www.kaggle.com/datasets/ankitbansal06/retail-orders)
-- Python Code :[Link]
-- Sql Code : [Link]
+- Python Code :[Link](https://github.com/gayatrikuracha/-Strategic-Retail-Insights-Analyzing-Sales-Data-for-Business-Optimization/blob/main/retail_orders.ipynb)
+- Sql Code : [Link](https://github.com/gayatrikuracha/-Strategic-Retail-Insights-Analyzing-Sales-Data-for-Business-Optimization/blob/main/retail_orders_code.sql)
+  
